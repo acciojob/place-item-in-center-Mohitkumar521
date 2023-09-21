@@ -1,2 +1,16 @@
-
+     .item-1{
+		width: 100vw;
+      height: 100vh;
+      background-color: #3498db;
+      margin: 10px;
+      text-align: center;
+      line-height: 100px;
+      color: #fff;
+      font-weight: bold; 
+	 } 
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+}
 /* Your CSS Code here. */
