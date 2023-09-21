@@ -1,16 +1,12 @@
-     .item-1{
-		width: 100vw;
-      height: 100vh;
-      background-color: #3498db;
-/*       margin: 10px; */
-/*       text-align: center; */
-/*       line-height: 100px; */
-      color: #fff;
-/*       font-weight: bold;  */
-	 } 
-.holder{
+ .holder{
 	display:flex;
-	flex-wrap:wrap;
+	align-items:center;
 	justify-content:center;
+	width:100vw;
+	height:100vh;
 }
-/* Your CSS Code here. */
+.item-1{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
